@@ -1,6 +1,6 @@
 # demo介绍
-    这是我学习慕课网scott的课程 [node+mongodb 建站攻略（一期）] (http://www.imooc.com/comment/75"node+mongodb 建站攻略（一期）")2-3的源码，
-    静态页面+静态数据（伪造数据）windows友好
+    这是我学习慕课网scott的课程[node+mongodb建站攻略（一期）](http://www.imooc.com/comment/75)的源码，
+    静态页面+静态数据（伪造数据），对windows友好
 # 结构
 Imooc
 
