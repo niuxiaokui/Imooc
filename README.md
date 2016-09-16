@@ -1,23 +1,24 @@
 # demo介绍
-    这是我学习慕课网scott的课程[node+mongodb 建站攻略（一期）]("http://www.imooc.com/comment/75")2-3的源码，
+    这是我学习慕课网scott的课程 [node+mongodb 建站攻略（一期）] (http://www.imooc.com/comment/75"node+mongodb 建站攻略（一期）")2-3的源码，
     静态页面+静态数据（伪造数据）windows友好
 # 结构
-    Imooc
+Imooc
+
       + node_modules
-        - XModules
+       - XModules
       + bower_components
-        - bootstrap
-        - jquery
+       - bootstrap
+       - jquery
       + views
-        - include
-          * head.jade
-          * header.jade
-        - pages
-          * index.jade
-          * detail.jade
-          * admin.jade
-          * list.jade
-        - layout.jade
+       - include
+        * head.jade
+        * header.jade
+       - pages
+        * index.jade
+        * detail.jade
+        * admin.jade
+        * list.jade
+       - layout.jade
       + app.js
         
 # 注意
