@@ -1,7 +1,8 @@
-# demo介绍
-    这是我学习慕课网scott课程[node+mongodb建站攻略（一期)](http://www.imooc.com/learn/75)的源码，
+## 介绍
+    这是我学习慕课网scott课程                                        
+   [node+mongodb建站攻略（一期)2-3](http://www.imooc.com/video/1226)的源码，
     静态页面+静态数据（伪造数据），对windows友好
-# 结构
+## 结构
 Imooc
 
   + node_modules
@@ -21,6 +22,6 @@ Imooc
     - layout.jade
   + app.js
         
-# 注意
+## 注意
     1、适合windows环境,与Mac有地方不同，具体看源码研究
     2、注意express、jade、moment、mongoose、body-parser、serve-static、bootstrap、jquery模块和各个文件的位置
